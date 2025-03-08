@@ -1,0 +1,352 @@
+{
+    "1": {
+        "firstname": "Javlon",
+        "lastname": "Zokirov",
+        "nomer": 998946260948,
+        "course": 3,
+        "OTM": "SamDU"
+    },
+    "2": {
+        "firstname": "Murod",
+        "lastname": "Toirov",
+        "nomer": 998969766870,
+        "course": 3,
+        "OTM": "TATU"
+    },
+    "3": {
+        "firstname": "Eldor",
+        "lastname": "Valiyev",
+        "nomer": 998948382124,
+        "course": 1,
+        "OTM": "MDIST"
+    },
+    "4": {
+        "firstname": "Allamurod",
+        "lastname": "Xakimov",
+        "nomer": 998912284636,
+        "course": 2,
+        "OTM": "PDP"
+    },
+    "5": {
+        "firstname": "Eldor",
+        "lastname": "Zokirov",
+        "nomer": 998984021884,
+        "course": 3,
+        "OTM": "Inha"
+    },
+    "6": {
+        "firstname": "Bekzod",
+        "lastname": "Olimov",
+        "nomer": 998992501493,
+        "course": 4,
+        "OTM": "SamDU"
+    },
+    "7": {
+        "firstname": "Laziz",
+        "lastname": "Toirov",
+        "nomer": 998918008032,
+        "course": 1,
+        "OTM": "Inha"
+    },
+    "8": {
+        "firstname": "Javlon",
+        "lastname": "Valiyev",
+        "nomer": 998902789560,
+        "course": 2,
+        "OTM": "TSUL"
+    },
+    "9": {
+        "firstname": "Bekzod",
+        "lastname": "Xakimov",
+        "nomer": 998967294713,
+        "course": 4,
+        "OTM": "TSUL"
+    },
+    "10": {
+        "firstname": "Doston",
+        "lastname": "Sobirov",
+        "nomer": 998917639867,
+        "course": 2,
+        "OTM": "UzSWLU"
+    },
+    "11": {
+        "firstname": "Laziz",
+        "lastname": "Yoqubov",
+        "nomer": 998935149429,
+        "course": 2,
+        "OTM": "TATU"
+    },
+    "12": {
+        "firstname": "Komil",
+        "lastname": "Olimov",
+        "nomer": 998980180487,
+        "course": 3,
+        "OTM": "TATU"
+    },
+    "13": {
+        "firstname": "Javlon",
+        "lastname": "Olimov",
+        "nomer": 998977482372,
+        "course": 2,
+        "OTM": "TSUL"
+    },
+    "14": {
+        "firstname": "G'ayrat",
+        "lastname": "Zokirov",
+        "nomer": 998977561670,
+        "course": 3,
+        "OTM": "PDP"
+    },
+    "15": {
+        "firstname": "Laziz",
+        "lastname": "Olimov",
+        "nomer": 998978584879,
+        "course": 4,
+        "OTM": "SamDU"
+    },
+    "16": {
+        "firstname": "Doston",
+        "lastname": "Toirov",
+        "nomer": 998967889212,
+        "course": 2,
+        "OTM": "PDP"
+    },
+    "17": {
+        "firstname": "Bekzod",
+        "lastname": "Toirov",
+        "nomer": 998958481110,
+        "course": 4,
+        "OTM": "UzSWLU"
+    },
+    "18": {
+        "firstname": "Farrux",
+        "lastname": "Rustamov",
+        "nomer": 998992950242,
+        "course": 3,
+        "OTM": "PDP"
+    },
+    "19": {
+        "firstname": "Komil",
+        "lastname": "Olimov",
+        "nomer": 998941926645,
+        "course": 3,
+        "OTM": "Inha"
+    },
+    "20": {
+        "firstname": "Farrux",
+        "lastname": "Xakimov",
+        "nomer": 998950487894,
+        "course": 1,
+        "OTM": "Inha"
+    },
+    "21": {
+        "firstname": "Javlon",
+        "lastname": "Xolmirzayev",
+        "nomer": 998989215819,
+        "course": 3,
+        "OTM": "BuxDU"
+    },
+    "22": {
+        "firstname": "Komil",
+        "lastname": "Zokirov",
+        "nomer": 998927967562,
+        "course": 2,
+        "OTM": "UzSWLU"
+    },
+    "23": {
+        "firstname": "G'ayrat",
+        "lastname": "Zokirov",
+        "nomer": 998997677998,
+        "course": 3,
+        "OTM": "TATU"
+    },
+    "24": {
+        "firstname": "Farrux",
+        "lastname": "Olimov",
+        "nomer": 998948116851,
+        "course": 1,
+        "OTM": "TDTU"
+    },
+    "25": {
+        "firstname": "G'ayrat",
+        "lastname": "Toirov",
+        "nomer": 998947190747,
+        "course": 1,
+        "OTM": "SamDU"
+    },
+    "26": {
+        "firstname": "Doston",
+        "lastname": "Olimov",
+        "nomer": 998991710507,
+        "course": 3,
+        "OTM": "UzSWLU"
+    },
+    "27": {
+        "firstname": "Bekzod",
+        "lastname": "Xakimov",
+        "nomer": 998910788901,
+        "course": 3,
+        "OTM": "WIUT"
+    },
+    "28": {
+        "firstname": "Javlon",
+        "lastname": "Zokirov",
+        "nomer": 998981074910,
+        "course": 3,
+        "OTM": "MDIST"
+    },
+    "29": {
+        "firstname": "Allamurod",
+        "lastname": "Toirov",
+        "nomer": 998900209763,
+        "course": 3,
+        "OTM": "PDP"
+    },
+    "30": {
+        "firstname": "Allamurod",
+        "lastname": "Sobirov",
+        "nomer": 998938129156,
+        "course": 4,
+        "OTM": "Inha"
+    },
+    "31": {
+        "firstname": "Laziz",
+        "lastname": "Xakimov",
+        "nomer": 998959331785,
+        "course": 2,
+        "OTM": "TDTU"
+    },
+    "32": {
+        "firstname": "Farrux",
+        "lastname": "Usmonov",
+        "nomer": 998912543387,
+        "course": 3,
+        "OTM": "TATU"
+    },
+    "33": {
+        "firstname": "Javlon",
+        "lastname": "Toirov",
+        "nomer": 998939624088,
+        "course": 2,
+        "OTM": "TDTU"
+    },
+    "34": {
+        "firstname": "Allamurod",
+        "lastname": "Xakimov",
+        "nomer": 998930144685,
+        "course": 3,
+        "OTM": "TDTU"
+    },
+    "35": {
+        "firstname": "Farrux",
+        "lastname": "Toirov",
+        "nomer": 998979004424,
+        "course": 3,
+        "OTM": "UzSWLU"
+    },
+    "36": {
+        "firstname": "Javlon",
+        "lastname": "Yoqubov",
+        "nomer": 998990885372,
+        "course": 2,
+        "OTM": "BuxDU"
+    },
+    "37": {
+        "firstname": "G'ayrat",
+        "lastname": "Usmonov",
+        "nomer": 998905907719,
+        "course": 1,
+        "OTM": "Inha"
+    },
+    "38": {
+        "firstname": "Farrux",
+        "lastname": "Rustamov",
+        "nomer": 998943641528,
+        "course": 3,
+        "OTM": "UzSWLU"
+    },
+    "39": {
+        "firstname": "Komil",
+        "lastname": "Toirov",
+        "nomer": 998902463375,
+        "course": 2,
+        "OTM": "UzSWLU"
+    },
+    "40": {
+        "firstname": "Eldor",
+        "lastname": "Olimov",
+        "nomer": 998935919727,
+        "course": 1,
+        "OTM": "BuxDU"
+    },
+    "41": {
+        "firstname": "Komil",
+        "lastname": "Yoqubov",
+        "nomer": 998996137838,
+        "course": 1,
+        "OTM": "TDTU"
+    },
+    "42": {
+        "firstname": "Allamurod",
+        "lastname": "Xolmirzayev",
+        "nomer": 998910235391,
+        "course": 4,
+        "OTM": "BuxDU"
+    },
+    "43": {
+        "firstname": "Farrux",
+        "lastname": "Sobirov",
+        "nomer": 998976217320,
+        "course": 3,
+        "OTM": "SamDU"
+    },
+    "44": {
+        "firstname": "Murod",
+        "lastname": "Olimov",
+        "nomer": 998975400221,
+        "course": 4,
+        "OTM": "TDTU"
+    },
+    "45": {
+        "firstname": "Bekzod",
+        "lastname": "Sobirov",
+        "nomer": 998982827978,
+        "course": 2,
+        "OTM": "MDIST"
+    },
+    "46": {
+        "firstname": "Eldor",
+        "lastname": "Xakimov",
+        "nomer": 998986406196,
+        "course": 3,
+        "OTM": "TDTU"
+    },
+    "47": {
+        "firstname": "Laziz",
+        "lastname": "Zokirov",
+        "nomer": 998970791295,
+        "course": 1,
+        "OTM": "BuxDU"
+    },
+    "48": {
+        "firstname": "Doston",
+        "lastname": "Yoqubov",
+        "nomer": 998958929692,
+        "course": 3,
+        "OTM": "MDIST"
+    },
+    "49": {
+        "firstname": "Farrux",
+        "lastname": "Xakimov",
+        "nomer": 998935471772,
+        "course": 2,
+        "OTM": "TDTU"
+    },
+    "50": {
+        "firstname": "G'ayrat",
+        "lastname": "Xakimov",
+        "nomer": 998901807437,
+        "course": 3,
+        "OTM": "BuxDU"
+    }
+}
