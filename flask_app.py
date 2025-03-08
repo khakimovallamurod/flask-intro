@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 usd = 12737 # 1 USD = 12 737 UZS
 
-@app.route('/api/to-usd', methods=['GET'])
+@app.route('/api/to-usd/', methods=['GET'])
 def to_usd():
     """
     Convert to USD
@@ -24,8 +24,20 @@ def to_usd():
                 "convertedCurrency": "USD"
             }
     """
+    amount = request.args.get('amount')
+    usd = round(int(amount)/12737, 2)
+    if amount:
+        return {
+                "amount": amount,
+                "currency": "UZS",
+                "converted": usd,
+                "convertedCurrency": "USD"
+            }
 
-    return 
+    return {
+        "statust": "error"
+        }
+
 @app.route('/api/to-uzs', methods=['GET'])
 def to_uzs():
     """
@@ -48,4 +60,5 @@ def to_uzs():
     """
     return 
 if __name__ == '__main__':
-    app.run(debug = True)    
+    app.run(port=8080, debug=True)    
+
