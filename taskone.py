@@ -19,18 +19,6 @@ def get_sum():
                 "sum": 3
             }
     """  
-    args_value = request.args
-    a = args_value.get('a')
-    b = args_value.get('b')
-    if a!=None and b!=None:
-        results = {
-            "sum" : int(a) + int(b)
-        }
-        return results
-    else:
-        return {
-            "status": "error"
-        }
-
+   
 if __name__ == "__main__":
     app.run(debug = True)

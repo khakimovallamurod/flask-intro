@@ -24,19 +24,7 @@ def to_usd():
                 "convertedCurrency": "USD"
             }
     """
-    amount = request.args.get('amount')
-    usd = round(int(amount)/12737, 2)
-    if amount:
-        return {
-                "amount": amount,
-                "currency": "UZS",
-                "converted": usd,
-                "convertedCurrency": "USD"
-            }
-
-    return {
-        "statust": "error"
-        }
+    
 
 @app.route('/api/to-uzs', methods=['GET'])
 def to_uzs():
